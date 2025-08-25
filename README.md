@@ -9,3 +9,5 @@ updated on github
 closed issue
 
 fun branch updated
+
+new settings in my windows pc
